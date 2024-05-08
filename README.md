@@ -1,0 +1,1 @@
+SimpleStore Django Project
